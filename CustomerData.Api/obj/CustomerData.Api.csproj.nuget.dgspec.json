@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Api\\CustomerData.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Api\\CustomerData.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Api\\CustomerData.Api.csproj",
+        "projectName": "CustomerData.Api",
+        "projectPath": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Api\\CustomerData.Api.csproj",
+        "packagesPath": "C:\\Users\\程序员\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\程序员\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Application\\CustomerData.Application.csproj": {
+                "projectPath": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Application\\CustomerData.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Application\\CustomerData.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Application\\CustomerData.Application.csproj",
+        "projectName": "CustomerData.Application",
+        "projectPath": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Application\\CustomerData.Application.csproj",
+        "packagesPath": "C:\\Users\\程序员\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\程序员\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.EFCore\\CustomerData.EFCore.csproj": {
+                "projectPath": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.EFCore\\CustomerData.EFCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Panda.DynamicWebApi": {
+              "target": "Package",
+              "version": "[0.0.6.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Core\\CustomerData.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Core\\CustomerData.Core.csproj",
+        "projectName": "CustomerData.Core",
+        "projectPath": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Core\\CustomerData.Core.csproj",
+        "packagesPath": "C:\\Users\\程序员\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\程序员\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Abp": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.EFCore\\CustomerData.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.EFCore\\CustomerData.EFCore.csproj",
+        "projectName": "CustomerData.EFCore",
+        "projectPath": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.EFCore\\CustomerData.EFCore.csproj",
+        "packagesPath": "C:\\Users\\程序员\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\程序员\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Core\\CustomerData.Core.csproj": {
+                "projectPath": "C:\\Users\\程序员\\source\\repos\\CustomerData\\CustomerData.Core\\CustomerData.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Abp.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

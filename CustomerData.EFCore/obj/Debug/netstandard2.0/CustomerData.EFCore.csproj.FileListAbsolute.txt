@@ -1,0 +1,12 @@
+C:\Users\程序员\source\repos\CustomerData\CustomerData.EFCore\bin\Debug\netstandard2.0\CustomerData.EFCore.deps.json
+C:\Users\程序员\source\repos\CustomerData\CustomerData.EFCore\bin\Debug\netstandard2.0\CustomerData.EFCore.dll
+C:\Users\程序员\source\repos\CustomerData\CustomerData.EFCore\obj\Debug\netstandard2.0\CustomerData.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\程序员\source\repos\CustomerData\CustomerData.EFCore\obj\Debug\netstandard2.0\CustomerData.EFCore.AssemblyInfoInputs.cache
+C:\Users\程序员\source\repos\CustomerData\CustomerData.EFCore\obj\Debug\netstandard2.0\CustomerData.EFCore.AssemblyInfo.cs
+C:\Users\程序员\source\repos\CustomerData\CustomerData.EFCore\bin\Debug\netstandard2.0\CustomerData.Core.dll
+C:\Users\程序员\source\repos\CustomerData\CustomerData.EFCore\obj\Debug\netstandard2.0\CustomerData.EFCore.csprojAssemblyReference.cache
+C:\Users\程序员\source\repos\CustomerData\CustomerData.EFCore\bin\Debug\netstandard2.0\CustomerData.Core.pdb
+C:\Users\程序员\source\repos\CustomerData\CustomerData.EFCore\obj\Debug\netstandard2.0\CustomerData.EFCore.csproj.CopyComplete
+C:\Users\程序员\source\repos\CustomerData\CustomerData.EFCore\bin\Debug\netstandard2.0\CustomerData.EFCore.pdb
+C:\Users\程序员\source\repos\CustomerData\CustomerData.EFCore\obj\Debug\netstandard2.0\CustomerData.EFCore.dll
+C:\Users\程序员\source\repos\CustomerData\CustomerData.EFCore\obj\Debug\netstandard2.0\CustomerData.EFCore.pdb

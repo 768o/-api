@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomerData.Application</name>
+    </assembly>
+    <members>
+        <member name="T:CustomerData.Application.IApplicationService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:CustomerData.Application.Orders.OrderAppService">
+            <summary>
+            订单
+            </summary>
+        </member>
+        <member name="M:CustomerData.Application.Orders.OrderAppService.#ctor(CustomerData.EFCore.ProductContext)">
+            <summary>
+            
+            </summary>
+            <param name="db"></param>
+        </member>
+        <member name="M:CustomerData.Application.Orders.OrderAppService.Get">
+            <summary>
+            获取订单
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

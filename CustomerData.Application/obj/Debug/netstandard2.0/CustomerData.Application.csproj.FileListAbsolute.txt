@@ -1,0 +1,15 @@
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\bin\Debug\netstandard2.0\netstandard2.0\CustomerData.Application.deps.json
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\bin\Debug\netstandard2.0\netstandard2.0\CustomerData.Application.dll
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\bin\Debug\netstandard2.0\netstandard2.0\CustomerData.Application.pdb
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\bin\Debug\netstandard2.0\netstandard2.0\CustomerData.Application.xml
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\obj\Debug\netstandard2.0\CustomerData.Application.csproj.CoreCompileInputs.cache
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\obj\Debug\netstandard2.0\CustomerData.Application.AssemblyInfoInputs.cache
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\obj\Debug\netstandard2.0\CustomerData.Application.AssemblyInfo.cs
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\obj\Debug\netstandard2.0\CustomerData.Application.dll
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\obj\Debug\netstandard2.0\CustomerData.Application.pdb
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\obj\Debug\netstandard2.0\CustomerData.Application.csprojAssemblyReference.cache
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\bin\Debug\netstandard2.0\netstandard2.0\CustomerData.Core.dll
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\bin\Debug\netstandard2.0\netstandard2.0\CustomerData.EFCore.dll
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\bin\Debug\netstandard2.0\netstandard2.0\CustomerData.EFCore.pdb
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\bin\Debug\netstandard2.0\netstandard2.0\CustomerData.Core.pdb
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Application\obj\Debug\netstandard2.0\CustomerData.Application.csproj.CopyComplete

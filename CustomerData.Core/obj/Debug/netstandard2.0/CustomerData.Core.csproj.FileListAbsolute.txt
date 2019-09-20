@@ -1,0 +1,8 @@
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Core\bin\Debug\netstandard2.0\CustomerData.Core.deps.json
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Core\bin\Debug\netstandard2.0\CustomerData.Core.dll
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Core\bin\Debug\netstandard2.0\CustomerData.Core.pdb
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Core\obj\Debug\netstandard2.0\CustomerData.Core.csproj.CoreCompileInputs.cache
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Core\obj\Debug\netstandard2.0\CustomerData.Core.AssemblyInfoInputs.cache
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Core\obj\Debug\netstandard2.0\CustomerData.Core.AssemblyInfo.cs
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Core\obj\Debug\netstandard2.0\CustomerData.Core.dll
+C:\Users\程序员\source\repos\CustomerData\CustomerData.Core\obj\Debug\netstandard2.0\CustomerData.Core.pdb
